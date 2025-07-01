@@ -1,6 +1,6 @@
 # 🎬 Runway AI Creative Community Hub  
 
-![Visitors: 280K+](https://img.shields.io/badge/Visitors-280K+-ff9f43) ![Subscribers: 180K+](https://img.shields.io/badge/Subscribers-180K+-6ab04c) ![Last Updated: June 2025](https://img.shields.io/badge/Last_Updated-June_2025-3498db)  
+![Visitors: 280K+](https://img.shields.io/badge/Visitors-280K+-ff9f43) ![Subscribers: 180K+](https://img.shields.io/badge/Subscribers-180K+-6ab04c) ![Last Updated:2025](https://img.shields.io/badge/Last_Updated-_2025-3498db)  
 
 ![Runway ML Banner](https://i.ytimg.com/vi/bvC6FjOI5mc/maxresdefault.jpg)  
 
@@ -12,8 +12,8 @@
 
 ## 📋 Explore Further  
 
-- [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/Runway-AI-Community/Runway-AI-Creative-Hub)  
-- [![Start Tutorial](https://img.shields.io/badge/Start_Tutorial-NOW-blueviolet)](https://github.com/Runway-AI-Community/Runway-AI-Creative-Hub)  
+- [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/Free-Runway-AI-Community/Free-Runway-AI-Creative-Hub)  
+- [![Start Tutorial](https://img.shields.io/badge/Start_Tutorial-NOW-blueviolet)](https://github.com/Free-Runway-AI-Community/.github)  
 
 ---
 
